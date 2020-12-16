@@ -1,0 +1,12 @@
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Core\bin\Debug\netcoreapp3.1\SoundBeats.Core.deps.json
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Core\bin\Debug\netcoreapp3.1\SoundBeats.Core.runtimeconfig.json
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Core\bin\Debug\netcoreapp3.1\SoundBeats.Core.runtimeconfig.dev.json
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Core\bin\Debug\netcoreapp3.1\SoundBeats.Core.dll
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Core\bin\Debug\netcoreapp3.1\SoundBeats.Core.pdb
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Core\obj\Debug\netcoreapp3.1\SoundBeats.Core.csprojAssemblyReference.cache
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Core\obj\Debug\netcoreapp3.1\SoundBeats.Core.AssemblyInfoInputs.cache
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Core\obj\Debug\netcoreapp3.1\SoundBeats.Core.AssemblyInfo.cs
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Core\obj\Debug\netcoreapp3.1\SoundBeats.Core.csproj.CoreCompileInputs.cache
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Core\obj\Debug\netcoreapp3.1\SoundBeats.Core.dll
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Core\obj\Debug\netcoreapp3.1\SoundBeats.Core.pdb
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Core\obj\Debug\netcoreapp3.1\SoundBeats.Core.genruntimeconfig.cache

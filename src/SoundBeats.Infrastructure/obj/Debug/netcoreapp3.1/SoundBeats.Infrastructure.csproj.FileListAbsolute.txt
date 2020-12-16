@@ -1,0 +1,15 @@
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Infrastructure\bin\Debug\netcoreapp3.1\SoundBeats.Infrastructure.deps.json
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Infrastructure\bin\Debug\netcoreapp3.1\SoundBeats.Infrastructure.runtimeconfig.json
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Infrastructure\bin\Debug\netcoreapp3.1\SoundBeats.Infrastructure.runtimeconfig.dev.json
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Infrastructure\bin\Debug\netcoreapp3.1\SoundBeats.Infrastructure.dll
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Infrastructure\bin\Debug\netcoreapp3.1\SoundBeats.Infrastructure.pdb
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Infrastructure\bin\Debug\netcoreapp3.1\SoundBeats.Core.dll
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Infrastructure\bin\Debug\netcoreapp3.1\SoundBeats.Core.pdb
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Infrastructure\obj\Debug\netcoreapp3.1\SoundBeats.Infrastructure.csprojAssemblyReference.cache
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Infrastructure\obj\Debug\netcoreapp3.1\SoundBeats.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Infrastructure\obj\Debug\netcoreapp3.1\SoundBeats.Infrastructure.AssemblyInfo.cs
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Infrastructure\obj\Debug\netcoreapp3.1\SoundBeats.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Infrastructure\obj\Debug\netcoreapp3.1\SoundBeats.Infrastructure.csproj.CopyComplete
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Infrastructure\obj\Debug\netcoreapp3.1\SoundBeats.Infrastructure.dll
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Infrastructure\obj\Debug\netcoreapp3.1\SoundBeats.Infrastructure.pdb
+C:\Users\DesarrolladorWeb6\Desktop\ProyectoSiicoreVS\src\SoundBeats.Infrastructure\obj\Debug\netcoreapp3.1\SoundBeats.Infrastructure.genruntimeconfig.cache
